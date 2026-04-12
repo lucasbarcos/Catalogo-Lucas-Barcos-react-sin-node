@@ -19,8 +19,8 @@ La aplicación implementa componentización, manejo de estado, renderizado diná
 
 * React
 * Vite
-* JavaScript (ES6)
-* CSS3
+* JavaScript 
+* CSS
 
 ## Estructura del proyecto
 
