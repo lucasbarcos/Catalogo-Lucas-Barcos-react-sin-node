@@ -8,26 +8,26 @@ La aplicación implementa componentización, manejo de estado, renderizado diná
 
 ## Funcionalidades
 
-* Visualización de catálogo mediante tarjetas.
-* Buscador dinámico para filtrar elementos.
-* Marcado de ítems como favoritos.
-* Identificación visual de elementos destacados.
-* Modal con información ampliada del ítem seleccionado.
-* Fondo multimedia con video.
+- Visualización de catálogo mediante tarjetas.
+- Buscador dinámico para filtrar elementos.
+- Marcado de ítems como favoritos.
+- Identificación visual de elementos destacados.
+- Modal con información ampliada del ítem seleccionado.
+- Fondo multimedia con video.
 
 ## Tecnologías utilizadas
 
-* React
-* Vite
-* JavaScript (ES6)
-* CSS3
+- React
+- Vite
+- JavaScript
+- CSS
 
 ## Estructura del proyecto
 
-* components/: Componentes reutilizables de la aplicación.
-* data/: Datos mock utilizados como fuente del catálogo.
-* utils/: Funciones auxiliares.
-* App.jsx: Componente principal que organiza Header, Main y Footer.
+- components/: Componentes reutilizables de la aplicación.
+- data/: Datos mock utilizados como fuente del catálogo.
+- utils/: Funciones auxiliares.
+- App.jsx: Componente principal que organiza Header, Main y Footer.
 
 ## Ejecución del proyecto
 
@@ -38,7 +38,7 @@ Ejecutar servidor de desarrollo:
 npm run dev
 
 Abrir en el navegador:
-http://localhost:****
+http://localhost:\*\*\*\*
 
 ## Autor
 

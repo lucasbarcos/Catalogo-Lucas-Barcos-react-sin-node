@@ -29,11 +29,6 @@ function Card({ item }) {
 
       </div>
 
-      <div className="content">
-        <h3>{item.titulo}</h3>
-        <p className="precio">${item.precio}</p>
-      </div>
-
     </div>
   );
 }
