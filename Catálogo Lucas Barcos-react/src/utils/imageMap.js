@@ -14,7 +14,7 @@ export const imageMap = {
   11:"/Kimetsu.jpg",
   12:"/cyberpunk.jpg",
   13:"/death note.jpg",
-  14:"Red Dead Redemption 2.jpg",
+  14:"/Red Dead Redemption 2.jpg",
   15:"/one piece.jpg",
   16:"/hades.jpg",
   17:"/naruto.jpg",

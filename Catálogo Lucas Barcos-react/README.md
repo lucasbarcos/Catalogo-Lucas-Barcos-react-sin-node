@@ -17,10 +17,17 @@ La aplicación implementa componentización, manejo de estado, renderizado diná
 
 ## Tecnologías utilizadas
 
+<<<<<<< HEAD
 - React
 - Vite
 - JavaScript
 - CSS
+=======
+* React
+* Vite
+* JavaScript 
+* CSS
+>>>>>>> 4389e0b2cbca919387633f300cf4454cb1a37ed6
 
 ## Estructura del proyecto
 
